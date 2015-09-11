@@ -1,0 +1,23 @@
+{
+  "name": "online",
+  "version": "0.0.0",
+  "authors": [
+    "7demo <liyanan7demo@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1",
+    "requirejs": "~2.1.20"
+  }
+}
